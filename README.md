@@ -6,7 +6,7 @@ But Shakespeare is boring and there are much easier ways to express what you are
 This project puts at your disposal an infinte amount of monkeys to write sentences of the type `She [blank] on my [blank] until I [blank]`. All you will ever need to fully communicate every single thing that passes through your thoughts.
 
 ## Monkey methodology
-Monkeys roughly know what words should look like, so they will try their best to write something comprehensible for you. For every sentence you want, they will create 3 words between 1 and 20 letters, with random letters. Words are more likely to have a length around 4, 5, 6 letters, but all lenghts in that range are possible. 
+Monkeys roughly know what words should look like, so they will try their best to write something comprehensible for you. For every sentence you want, they will create 3 words between 1 and 20 letters, with random letters. Words are more likely to have a length around 4, 5, 6 letters, but all lengths in that range are possible. 
 After a monkey types the three words for you, they will be combined with the template, and thus a sentence will be formed.
 
 Every time a monkey writes something that actually contains words from the English language, that sentence will be saved to a file. This way, you will only see the sentences that you can truly use to express yourself.
